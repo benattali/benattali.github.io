@@ -21,4 +21,3 @@ bigimg:
   - "/img/bigimg/2016 04 24-19 04 51.JPG" : "Hawaii, USA"
   - "/img/bigimg/IMG-20190719-WA0079.jpg" : "Golan Heights, Israel"
 ---
-
