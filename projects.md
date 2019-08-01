@@ -12,7 +12,7 @@ My coding career began in May 2019. Here I will try to have (an updated) collect
   
   
 🗺 [**Island hunt**](http://islandhunt.herokuapp.com)  
-  A fun and not very useful project. Combining islands and escape rooms into one. Here people can sign up to add or rent an island which acts as an escape room! This project was also cocreated with [Axel](https://github.com/AxelResnik) and [Ilan](https://github.com/Ilansz).
+  A fun and not very useful project. Combining islands and escape rooms into one. Here people can log into lend or rent an island which acts as an escape room! This project was also cocreated with [Axel](https://github.com/AxelResnik) and [Ilan](https://github.com/Ilansz).
   
   
 🍸 [**Bar chef**](https://bar-chef.herokuapp.com)  
