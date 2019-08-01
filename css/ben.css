@@ -1,0 +1,19 @@
+.navbar-custom .avatar-container .avatar-img {
+  border: 0.5px solid #FCFCFC;
+}
+
+.navbar-custom .avatar-container .avatar-img-border {
+  box-shadow: none;
+}
+
+.intro-header.big-img {
+  height: 100vh;
+}
+
+footer {
+  margin: 0;
+}
+
+.intro-header.big-img {
+ margin: 0; 
+}
