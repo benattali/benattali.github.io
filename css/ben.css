@@ -17,3 +17,11 @@ footer {
 .intro-header.big-img {
  margin: 0; 
 }
+
+.header-section.has-img .no-img {
+ margin: 0; 
+}
+
+.intro-header {
+ margin: 0; 
+}
