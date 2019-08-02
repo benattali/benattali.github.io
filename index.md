@@ -20,4 +20,8 @@ bigimg:
   - "/img/bigimg/2016 04 25-18 27 03.JPG" : "Hawaii, USA"
   - "/img/bigimg/2016 04 24-19 04 51.JPG" : "Hawaii, USA"
   - "/img/bigimg/IMG-20190719-WA0079.jpg" : "Golan Heights, Israel"
+  - "/img/bigimg/20190717_060342.jpg" : "Masada, Israel"
+  - "/img/bigimg/2017 02 16-14 01 30.jpg" : "Great Ocean Road, Australia"
+  - "/img/bigimg/2017 11 12-11 14 18 .JPG" : "Somewhere in Argentina"
+  - "/img/bigimg/2017 11 30-10 19 10 .JPG" : "Carretera Austral, Chile"
 ---
