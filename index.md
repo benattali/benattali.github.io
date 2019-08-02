@@ -22,8 +22,6 @@ bigimg:
   - "/img/bigimg/2017 11 30-10 19 10 .JPG" : "Carretera Austral, Chile"
   - "/img/bigimg/2017 12 01-10 41 06 .JPG" : "Argentina"
   - "/img/bigimg/2017 12 06-17 26 20 .jpg" : "Puerto Madryn, Argentina"
-  - "/img/bigimg/2017 12 15-12 55 08 .JPG" : "Torres del Paine, Chile"
-  - "/img/bigimg/20160721_20485912.jpg" : "Adelaide, Australia"
   - "/img/bigimg/20160902-3125.jpg" : "Uluru, Australia"
   - "/img/bigimg/2013 12 23-15 34 08.JPG" : "Outside my window, Canada"
 ---
