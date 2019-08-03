@@ -21,7 +21,7 @@ bigimg:
   - "/img/bigimg/20190705_112419.jpg" : "Caesarea, Israel"
   - "/img/bigimg/20190717_110919.jpg" : "Dead Sea, Israel"
   - "/img/bigimg/2019 03 08-12 13 54 .JPG" : "7 Mile Beach, Cayman Islands"
-  - "/img/bigimg/20190723_202010.jpg" : "Lake Simcoe, Canada"
+  - "/img/bigimg/20190803_123944.jpg" : "Lake Simcoe, Canada"
   - "/img/bigimg/20190719_133558.jpg" : "Nahal El Al, Israel"
   - "/img/bigimg/20190717_060342.jpg" : "Masada, Israel"
 ---
