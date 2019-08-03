@@ -16,7 +16,7 @@ My coding career began in May 2019. Here I will try to have (an updated) collect
   
   
 🍸 [**Bar chef**](https://bar-chef.herokuapp.com)  
-  My very first web app that I created in 2 days. Needless to say, it is extremely simple and limited in its functionality. It let's you add, delete and view descriptions of cocktails. This will definitely come in useful for me someday!
+  My very first web app that I created in 2 days. Needless to say, it is extremely simple and limited in its functionality. It lets you add, delete and view descriptions of cocktails. This will definitely come in useful for me someday!
     
 Upcoming projects I'm hoping to find the time to work on:
 * A to-do list --- to help me keep track of what I need to do
