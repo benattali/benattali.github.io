@@ -23,7 +23,7 @@ Upcoming projects I'm hoping to find the time to work on:
 * Some sort of person vs computer game --- for backend and logic building
 * Creating a new design for my portfolio page (yes this one!)
 
-If you like what I'm doing and want to help me further my projects, or if you just want to show some love feel free to hit the donate button below 👇
+If you like what I'm doing and want to help me further my projects, or if you like the photos on the homepage and would like to help me reach new places, show me some love down below 👇
 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="text-align: center;">
