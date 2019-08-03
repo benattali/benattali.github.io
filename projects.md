@@ -5,6 +5,8 @@ subtitle: Welcome to my bragging place
 comments: true
 ---
 
+**I am currently self-employed. Feel free to check out my [résumé](https://benattali.github.io/resume) and contact me. Both freelancing and full employment opportunities are welcome :)**
+
 My coding career began in May 2019. Here I will try to have (an updated) collection of my projects. So here we go...
 
 🕒 [**app2wait**](https://www.app2wait.com/)  
@@ -22,8 +24,6 @@ Upcoming projects I'm hoping to find the time to work on:
 * A to-do list --- to help me keep track of what I need to do
 * Some sort of person vs computer game --- for backend and logic building
 * Creating a new design for my portfolio page (yes this one!)
-
-**I am currently self-employed. Feel free to check out my [résumé](https://benattali.github.io/resume) and contact me. Both freelancing and full employment opportunities are welcome :)**
 
 If you like what I'm doing and want to help me further my projects, or if you just want to show some love feel free to hit the donate button below 👇
 
