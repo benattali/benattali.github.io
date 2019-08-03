@@ -5,7 +5,7 @@ subtitle: Welcome to my bragging place
 comments: true
 ---
 
-**I am currently self-employed. Feel free to check out my [résumé](https://benattali.github.io/resume) and contact me. Both freelancing and full employment opportunities are welcome :)**
+**I am currently self-employed. Feel free to check out my [résumé](https://benattali.github.io/resume) and reach out for any questions or projects. Both freelancing and full employment opportunities are welcome :)**
 
 My coding career began in May 2019. Here I will try to have (an updated) collection of my projects. So here we go...
 
