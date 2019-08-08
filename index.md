@@ -7,6 +7,7 @@ bigimg:
   - "/img/bigimg/2012 06 23-09 10 54.JPG" : "Israel"
   - "/img/bigimg/2013 07 10-15 24 26.JPG" : "Eilat, Israel"
   - "/img/bigimg/2013 12 23-15 34 08.JPG" : "Outside my window, Canada"
+  - "/img/bigimg/IMG_2150.JPG" : "Santa Teresa, Costa Rica"
   - "/img/bigimg/20160901-3048.jpg" : "Outback, Australia"
   - "/img/bigimg/2016 04 24-19 04 51.JPG" : "Hawaii, USA"
   - "/img/bigimg/20160902-3125.jpg" : "Uluru, Australia"
