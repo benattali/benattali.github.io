@@ -25,4 +25,5 @@ bigimg:
   - "/img/bigimg/20190803_123944.jpg" : "Lake Simcoe, Canada"
   - "/img/bigimg/20190719_133558.jpg" : "Nahal El Al, Israel"
   - "/img/bigimg/20190717_060342.jpg" : "Masada, Israel"
+  - "/img/bigimg/IMG_6548.JPG" : "Scarborough Bluffs, Canada"
 ---
