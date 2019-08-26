@@ -24,7 +24,7 @@ Here are some things I ❤ in no particular order:
   
 📚 Reading
 * My guilty pleasure is anything written by David Baldacci
-* Historical fiction is my go-to genre (currently reading **Edge of Eternity** by _Ken Follett_)
+* Historical fiction is my go-to genre
 * Combining my love for the water and my love for reading is one of my favorite hobbies. I can frequently be spotted reading at one of the many beaches in Tel Aviv
   
   
