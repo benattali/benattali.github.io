@@ -7,11 +7,11 @@ comments: true
 
 My coding career began in May 2019. Here I will try to have (an updated) collection of my projects. So here we go...
 
-✔ **To do list**  
-  Stay tuned for my awesome to do list. It's currently in the works.  
+✔ [**Taskslists**](www.taskslists.com)  
+  A simple yet elegant way to stay organized in your busy life.  
   Using RoR.
 
-🕒 [**app2wait**](https://www.app2wait.com/)  
+🕒 [**App2wait**](https://www.app2wait.com/)  
   A social app that lets you send and record embarrassing challenges of your friends for being late. The later they are the more embarrassing the challenge becomes. This was my final project at [Le Wagon's](https://www.lewagon.com/program) bootcamp, which I created together with [Axel](https://github.com/AxelResnik) and [Ilan](https://github.com/Ilansz). Feel free to check out the [readme](https://github.com/benattali/app2wait) to learn more about it and how to use it.
   
   
