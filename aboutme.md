@@ -37,4 +37,4 @@ Here are some things I ❤ in no particular order:
 💻 Coding
 * What can be said about a career that's also a hobby 🙂
 
-**I am currently self-employed. Feel free to check out my [résumé](https://benattali.github.io/resume) and reach out for any questions or project development. Both freelancing and full employment opportunities are welcome :)**
+**I am currently doing freelance work. Feel free to check out my [résumé](https://benattali.github.io/resume) and reach out for any questions or project development. Both freelancing and full employment opportunities are welcome :)**
