@@ -7,7 +7,7 @@ comments: true
 
 My coding career began in May 2019. Here I will try to have (an updated) collection of my projects. So here we go...
 
-✔ [**Taskslists**](http://taskslists.com)  
+✔️ [**Taskslists**](http://taskslists.com)  
   A simple yet elegant to-do list to keep your busy life organized.
   Using RoR.
 
