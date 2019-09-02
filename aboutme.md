@@ -4,7 +4,7 @@ title: About me
 subtitle: Some cool things about me :)
 ---
 
-I was born in Tel Aviv, Israel and moved to Toronto, Canada at the age of 10. Since then I've done some back-and-forth between both countries, altogether spending about half my time in Canada (13 years), half in Israel (13 years) and about a year travelling around the world (yup, I'm 27 now).
+I was born in Tel Aviv, Israel and moved to Toronto, Canada at the age of 10. Since then I've done some back-and-forth between both countries, altogether spending about half my time in Canada (13 years), half in Israel (13 years) and about a year travelling around the world.
 
 
 Here are some things I ❤ in no particular order:
