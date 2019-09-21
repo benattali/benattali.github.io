@@ -20,8 +20,9 @@ My coding career began in May 2019. Here I will try to have (an updated) collect
 <a href="https://bar-chef.herokuapp.com" target="_blank">🍸 <strong>Bar chef</strong></a>  
   My very first web app that I created in 2 days. Needless to say, it is extremely simple and limited in its functionality. It lets you add, delete and view descriptions of cocktails. This will definitely come in useful for me someday!
     
-Upcoming projects I'm hoping to find the time to work on:
-* A to-do list --- to help me keep track of what I need to do (coming up real soon!)
+What's next for me:
+* Working on some freelance projects
+* Learning about time complexity
 * A quick JS and React tutorial
 
 If you like what I'm doing and want to help me further my projects, or if you like the photos on the homepage and would like to help me reach new places, show me some love down below 👇
