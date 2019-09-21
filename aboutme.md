@@ -12,7 +12,7 @@ Here are some things I ❤ in no particular order:
 
 ⚽ Soccer
 * Maccabi Tel Aviv has and will always be my team!
-* Over the last decade or so I consistently became mesmerized by Leo Messi, granting him the honor of being the only celebrity I'm following on [Instagram](https://www.instagram.com/benattali/)
+* Over the last decade or so I consistently became mesmerized by Leo Messi, granting him the honor of being the only celebrity I follow on [Instagram](https://www.instagram.com/benattali/)
 * And most importantly I'm always down for some pickup soccer, anywhere anytime (so if you're in the area just let me know!)
   
   
