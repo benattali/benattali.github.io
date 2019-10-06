@@ -11,7 +11,7 @@ My coding career began in May 2019. Here I will try to have (an updated) collect
   A simple yet elegant to-do list to keep your busy life organized.
   Using RoR.
 
-<a href="https://www.app2wait.com/" target="_blank">🕒 <strong>App2wait</strong></a>  
+<a href="https://app-2-wait.herokuapp.com/challenges" target="_blank">🕒 <strong>App2wait</strong></a>  
   A social app that lets you send and record embarrassing challenges of your friends for being late. The later they are the more embarrassing the challenge becomes. This was my final project at [Le Wagon's](https://www.lewagon.com/program) bootcamp, which I created together with [Axel](https://github.com/AxelResnik) and [Ilan](https://github.com/Ilansz). Feel free to check out the [readme](https://github.com/benattali/app2wait) to learn more about it and how to use it.
 
 <a href="http://islandhunt.herokuapp.com" target="_blank">🗺 <strong>Island hunt</strong></a>  
