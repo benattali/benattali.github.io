@@ -24,7 +24,7 @@ What's next for me:
 * Working on some freelance projects
 * Learning about time complexity
 * A quick JS and React tutorial
-* Creting a tic tac toe game
+* Creating a tic tac toe game
 
 If you like what I'm doing and want to help me further my projects, or if you like the photos on the homepage and would like to help me reach new places, show me some love down below 👇
 
