@@ -7,6 +7,9 @@ comments: true
 
 My coding career began in May 2019. Here I will try to have (an updated) collection of my projects. So here we go...
 
+<a href="https://benattali.com/tic-tac-toe/" target="_blank">❌⭕ <strong>Tic Tac Toe</strong></a>  
+  Tic tac toe. Stay tuned for final touches.
+
 <a href="http://taskslists.com" target="_blank">✔️ <strong>Taskslists</strong></a>  
   A simple yet elegant to-do list to keep your busy life organized.
   Using RoR.
