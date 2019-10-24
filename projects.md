@@ -8,7 +8,7 @@ comments: true
 My coding career began in May 2019. Here I will try to have (an updated) collection of my projects. So here we go...
 
 <a href="https://benattali.com/tic-tac-toe/" target="_blank">❌⭕ <strong>Tic Tac Toe</strong></a>  
-  Tic tac toe. Stack - JavaScript, hosted by github pages. Stay tuned for final touches.
+  Tic tac toe. Stack - JavaScript, hosted by github pages.
 
 <a href="http://taskslists.com" target="_blank">✔️ <strong>Taskslists</strong></a>  
   A simple yet elegant to-do list to keep your busy life organized.
@@ -25,9 +25,7 @@ My coding career began in May 2019. Here I will try to have (an updated) collect
     
 What's next for me:
 * Working on some freelance projects
-* Learning about time complexity
-* A quick JS and React tutorial
-* Creating a tic tac toe game
+* A React tutorial
 
 If you like what I'm doing and want to help me further my projects, or if you like the photos on the homepage and would like to help me reach new places, show me some love down below 👇
 
