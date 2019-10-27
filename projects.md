@@ -29,7 +29,7 @@ My coding career began in May 2019. Here I will try to have (an updated) collect
     
 What's next for me:
 * Working on some freelance projects
-* A React tutorial
+* A React native tutorial
 
 If you like what I'm doing and want to help me further my projects, or if you like the photos on the homepage and would like to help me reach new places, show me some love down below 👇
 
