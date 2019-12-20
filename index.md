@@ -26,4 +26,6 @@ bigimg:
   - "/img/bigimg/20190719_133558.jpg" : "Nahal El Al, Israel"
   - "/img/bigimg/20190717_060342.jpg" : "Masada, Israel"
   - "/img/bigimg/IMG_6548.JPG" : "Scarborough Bluffs, Canada"
+  - "/img/bigimg/191204, Krabi 55.jpg" : "Krabi, Thailand"
+  - "/img/bigimg/20191203_101552.jpg" : "Koh Lanta, Thailand"
 ---
