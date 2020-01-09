@@ -28,12 +28,6 @@ Here are some things I ❤ in no particular order:
 * Combining my love for the water and my love for reading is one of my favorite hobbies. I can frequently be spotted reading at one of the many beaches in Tel Aviv
   
   
-🌎 Travelling and meeting new people
-* As much as people say the world is small, there is so much to see and learn and of course, let's not forget about the adventures you experience and see!
-* In my opinion travelling and immersing yourself in different cultures is a great way to open your mind to new ideas and it enables you to learn new things and grow intellectually and emotionally as a person
-* And what better way to meet new people and make new friends
-  
-  
 💻 Coding
 * What can be said about a career that's also a hobby 🙂
 
