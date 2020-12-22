@@ -4,7 +4,7 @@ title: About me
 subtitle: Some cool things about me :)
 ---
 
-I was born in Tel Aviv, Israel and moved to Toronto, Canada at the age of 10. Since then I've done some back-and-forth between both countries. 
+I was born in Tel Aviv, Israel and moved to Toronto, Canada at the age of 10. Since then I've done some back-and-forth between both countries. Currently I'm back in Toronto and always open to meet up with new people, play soccer, go climbing and actively looking for work :)
 
 
 Here are some things I ♥ in no particular order:
@@ -25,10 +25,10 @@ Here are some things I ♥ in no particular order:
 📚 Reading
 * My guilty pleasure is anything written by David Baldacci
 * Historical fiction is my go-to genre
-* Combining my love for the water and my love for reading is one of my favorite hobbies. I can frequently be spotted reading at one of the many beaches in Tel Aviv
+* A few books I've read recently: <em>Rich Dad, Poor Dad</em> by Robert Kiyosaki, <em>How to Win Friends and Influence People</em> by Dale Carnegie, and the <em>Clifton Chronicles</em> by Jeffrey Archer
   
   
 💻 Coding
 * What can be said about a career that's also a hobby 😉
 
-**I am currently doing freelance work. Feel free to check out my [résumé](https://benattali.github.io/resume) and reach out for any questions or project development. Both freelancing and full employment opportunities are welcome :)**
+**I am currently doing freelance work and open for full-time employment positions. Feel free to check out my [résumé](https://benattali.github.io/resume) and reach out for any questions or project development. :)**
