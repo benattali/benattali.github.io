@@ -19,7 +19,7 @@ Here are some things I ♥ in no particular order:
 🤿 Scuba Diving
 * Ahh, the tranquil world of the water --- nothing can describe the beauty of the marine life
 * I earned my advanced open water licence in 2010, and since then I've been diving in many spots (Bahamas, Eilat, Great Barrier Reef) and doing different types of dives (regular dives, wall dives, open water shark dives)
-* Next 2 diving destinations --- [Sharm el Sheikh](https://www.google.com/maps/place/Sharm+El-Sheikh,+Qesm+Sharm+Ash+Sheikh,+South+Sinai+Governorate,+Egypt/@27.946844,34.2787126,12z/data=!3m1!4b1!4m5!3m4!1s0x14533bca3624d2e3:0xdd987e9c1945fd9c!8m2!3d27.9654198!4d34.3617769) and [Palau](https://www.google.com/maps/place/Palau/@5.4403639,130.7994425,7z/data=!3m1!4b1!4m5!3m4!1s0x328445b4a2af0399:0x12ed1edd39a1ebbb!8m2!3d7.51498!4d134.58252)
+* Next 2 diving destinations --- <a href="https://www.google.com/maps/place/Sharm+El-Sheikh,+Qesm+Sharm+Ash+Sheikh,+South+Sinai+Governorate,+Egypt/@27.946844,34.2787126,12z/data=!3m1!4b1!4m5!3m4!1s0x14533bca3624d2e3:0xdd987e9c1945fd9c!8m2!3d27.9654198!4d34.3617769" target="_blank">Sharm el Sheikh</a> and <a href="https://www.google.com/maps/place/Palau/@5.4403639,130.7994425,7z/data=!3m1!4b1!4m5!3m4!1s0x328445b4a2af0399:0x12ed1edd39a1ebbb!8m2!3d7.51498!4d134.58252" target="_blank">Palau</a>  
   
   
 📚 Reading
