@@ -12,24 +12,27 @@ My coding career began in May 2019. Here I will try to have (an updated) collect
   Apache Airflow. This is a simple example of how to get airflow running with a couple of DAG's within docker.  
   Python, Docker.
 
-<a href="https://benattali.com/tic-tac-toe/" target="_blank">❌⭕ <strong>Tic Tac Toe</strong></a>  
+<a href="https://benattali.github.io/tic-tac-toe/" target="_blank">❌⭕ <strong>Tic Tac Toe</strong></a>  
   Tic tac toe.  
   JavaScript, HTML/CSS.
 
-<a href="http://taskslists.com" target="_blank">✔ <strong>Taskslists</strong></a>  
+<a href="https://github.com/benattali/todo" target="_blank">✔ <strong>Taskslists</strong></a>  
   A simple yet elegant to-do list to keep your busy life organized.  
   Ruby on Rails, postgreSQL.
 
 <a href="https://app-2-wait.herokuapp.com/challenges" target="_blank">🕓 <strong>App2wait</strong></a>  
   A social app that lets you send and record embarrassing challenges of your friends for being late. The later they are the more embarrassing the challenge becomes. This was my final project at [Le Wagon's](https://www.lewagon.com/program) bootcamp, which I created together with [Axel](https://github.com/AxelResnik) and [Ilan](https://github.com/Ilansz). Feel free to check out the [readme](https://github.com/benattali/app2wait) to learn more about it and how to use it.  
+  <em>NOTE: I do not have access to the server this app is hosted on</em>  
   Ruby on Rails, postgreSQL, JavaScript.
 
 <a href="http://islandhunt.herokuapp.com" target="_blank">🗺 <strong>Island hunt</strong></a>  
   A fun and not very useful project. Combining islands and escape rooms into one. Here people can log into lend or rent an island which acts as an escape room! This project was also cocreated with [Axel](https://github.com/AxelResnik) and [Ilan](https://github.com/Ilansz).  
+  <em>NOTE: I do not have access to the server this app is hosted on</em>  
   Ruby on Rails, postgreSQL, JavaScript.
 
 <a href="https://bar-chef.herokuapp.com" target="_blank">🍹 <strong>Bar chef</strong></a>  
   My very first web app that I created in 2 days. Needless to say, it is extremely simple and limited in its functionality. It lets you add, delete and view descriptions of cocktails. This will definitely come in useful for me someday!  
+  <em>NOTE: I do not have access to the server this app is hosted on</em>  
   Ruby on Rails, postgreSQL, JavaScript.
     
 
