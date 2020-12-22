@@ -4,7 +4,7 @@ title: About me
 subtitle: Some cool things about me :)
 ---
 
-I was born in Tel Aviv, Israel and moved to Toronto, Canada at the age of 10. Since then I've done some back-and-forth between both countries. Currently I'm back in Toronto and always open to meet up with new people, play soccer, go climbing and actively looking for work :)
+I was born in Tel Aviv, Israel and moved to Toronto, Canada at the age of 10. Since then I've done some back-and-forth between both countries. Currently I'm back in Toronto and always open to meet up with new people, play soccer, go climbing.
 
 
 Here are some things I ♥ in no particular order:
