@@ -8,7 +8,7 @@ comments: true
 My coding career began in May 2019. Here I will try to have (an updated) collection of my projects. So here we go...  
 
 <a href="https://github.com/benattali/airflow-with-docker" target="_blank">🚀 <strong>Airflow</strong></a>  
-  Apache Airflow.  
+  Apache Airflow. This is a simple example of how to get airflow running with a couple of DAG's within docker.  
   Python, Docker.
 
 <a href="https://benattali.com/tic-tac-toe/" target="_blank">❌⭕ <strong>Tic Tac Toe</strong></a>  
