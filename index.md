@@ -10,6 +10,7 @@ bigimg:
   - "/img/bigimg/IMG_2162.JPG" : "Santa Teresa, Costa Rica"
   - "/img/bigimg/20160901-3048.jpg" : "Outback, Australia"
   - "/img/bigimg/2016 04 27-15 57 21.JPG" : "Hawaii, USA"
+  - "/img/bigimg/2016 04 25-18 27 02.JPG" : "Hawaii, USA"
   - "/img/bigimg/20160902-3125.jpg" : "Uluru, Australia"
   - "/img/bigimg/20170826_171416.jpg" : "Jasper, Canada"
   - "/img/bigimg/20170827_113611.jpg" : "Banff, Canada"
