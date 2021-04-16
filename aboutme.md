@@ -30,5 +30,3 @@ Here are some things I ♥ in no particular order:
   
 💻 Coding
 * What can be said about a career that's also a hobby 😉
-
-**I am currently doing freelance work and open for full-time employment opportunities. Feel free to check out my [résumé](https://benattali.github.io/resume) and reach out to me :)**
