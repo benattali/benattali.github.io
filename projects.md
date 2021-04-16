@@ -4,9 +4,9 @@ title: My projects
 subtitle: Welcome to my bragging place
 comments: true
 ---
-Currently, in my free time I'm working on the the <a href="https://fullstackopen.com/en/" target="_blank">Fullstack Open course offered by the University of Helsinki</a>. My progress can be found on my <a href="https://github.com/benattali/fs-course" target="_blank">Github</a> profile.  
-
 My coding career began in May 2019. Here I will try to have (an updated) collection of my projects. So here we go...  
+
+<em>Stay tuned for even more</em>  
 
 <a href="https://github.com/benattali/airflow-with-docker" target="_blank">🚀 <strong>Airflow</strong></a>  
   Apache Airflow. This is a simple example of how to get airflow running with a couple of DAG's within docker.  
